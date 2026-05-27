@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Inverse Reliability Paradox"
+message: "If you use this work, please cite it."
+authors:
+  - family-names: "Wankhede"
+    given-names: "Smiti"
+repository-code: "https://github.com/chiu443355-dot/Inverse-reliability-paradox"
+license: MIT
