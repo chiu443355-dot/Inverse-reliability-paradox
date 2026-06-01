@@ -104,6 +104,14 @@ The MLK framework is an experimental congestion prediction architecture designed
 
 ---
 
+Implementation Software
+
+The production implementation of the MIMI Logic Kernel (MLK) and SITI Intelligence platform is available at:
+
+https://github.com/chiu443355-dot/SITI-GSC-KERNEL
+
+---
+
 # License
 
 MIT License
